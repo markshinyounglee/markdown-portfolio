@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# My File Header Preview
+## Important Step
+### Mark Shinyoung Lee, August 2, 2020
